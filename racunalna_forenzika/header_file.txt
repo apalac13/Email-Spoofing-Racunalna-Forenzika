@@ -1,0 +1,104 @@
+Studentski posao
+toperkov@fesb.hr
+Tea Hrga
+Pošaljite svoje podatke za posao
+Received: from DU2PR04MB8741.eurprd04.prod.outlook.com (2603:10a6:10:2df::12)
+ by DU0PR04MB9369.eurprd04.prod.outlook.com with HTTPS; Fri, 2 Jun 2023
+ 06:18:25 +0000
+Received: from OS6P279CA0106.NORP279.PROD.OUTLOOK.COM (2603:10a6:e10:3c::8) by
+ DU2PR04MB8741.eurprd04.prod.outlook.com (2603:10a6:10:2df::12) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.6455.23; Fri, 2 Jun 2023 06:18:24 +0000
+Received: from HE1EUR01FT040.eop-EUR01.prod.protection.outlook.com
+ (2603:10a6:e10:3c:cafe::5a) by OS6P279CA0106.outlook.office365.com
+ (2603:10a6:e10:3c::8) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6455.23 via Frontend
+ Transport; Fri, 2 Jun 2023 06:18:24 +0000
+Authentication-Results: spf=fail (sender IP is 161.53.166.3)
+ smtp.mailfrom=fesb.hr; dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=fesb.hr;compauth=pass
+ reason=105
+Received-SPF: Fail (protection.outlook.com: domain of fesb.hr does not
+ designate 161.53.166.3 as permitted sender) receiver=protection.outlook.com;
+ client-ip=161.53.166.3; helo=marjan.fesb.hr;
+Received: from marjan.fesb.hr (161.53.166.3) by
+ HE1EUR01FT040.mail.protection.outlook.com (10.152.1.72) with Microsoft SMTP
+ Server id 15.20.6477.11 via Frontend Transport; Fri, 2 Jun 2023 06:18:23
+ +0000
+Received: from localhost (localhost [127.0.0.1])
+	by marjan.fesb.hr (Postfix) with ESMTP id 6A63A301A7
+	for <Tea.Hrga.00@fesb.hr>; Fri,  2 Jun 2023 08:18:23 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at marjan.fesb.hr
+Received: from marjan.fesb.hr ([127.0.0.1])
+	by localhost (marjan.fesb.hr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AkmbQtiEdB9X for <Tea.Hrga.00@fesb.hr>;
+	Fri,  2 Jun 2023 08:18:21 +0200 (CEST)
+Received: from [192.168.56.1] (gw-node01.fesb.hr [161.53.169.191])
+	by marjan.fesb.hr (Postfix) with ESMTP id 5BB823001F
+	for <Tea.Hrga.00@fesb.hr>; Fri,  2 Jun 2023 08:18:21 +0200 (CEST)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Subject: Studentski posao
+From: toperkov@fesb.hr
+To: Tea.Hrga.00@fesb.hr
+reply-to: Ana.Palac.01@fesb.hr
+Message-Id: <20230602061821.5BB823001F@marjan.fesb.hr>
+Date: Fri,  2 Jun 2023 08:18:21 +0200 (CEST)
+Return-Path: toperkov@fesb.hr
+X-MS-Exchange-Organization-ExpirationStartTime: 02 Jun 2023 06:18:24.0815
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Exchange-Organization-Network-Message-Id:
+ 441ee7b0-792d-4816-e90e-08db63312bb3
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: cb71c4a1-79d3-4ed7-b9a3-18b3592d71c8:0
+X-MS-Exchange-Organization-MessageDirectionality: Incoming
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ HE1EUR01FT040:EE_|DU2PR04MB8741:EE_|DU0PR04MB9369:EE_
+X-MS-Exchange-Organization-AuthSource:
+ HE1EUR01FT040.eop-EUR01.prod.protection.outlook.com
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Office365-Filtering-Correlation-Id: 441ee7b0-792d-4816-e90e-08db63312bb3
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:161.53.166.3;CTRY:HR;LANG:hr;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:marjan.fesb.hr;PTR:marjan.fesb.hr;CAT:NONE;SFS:(13230028)(451199021)(10136002)(58800400005)(33656002)(3480700007)(6266002)(558084003)(336012)(9686003)(956004)(26005)(1076003)(86362001)(7596003)(7636003)(356005)(34756004)(6916009)(22186003)(1096003)(8676002)(7116003)(5660300002);DIR:INB;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 02 Jun 2023 06:18:23.9565
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: 441ee7b0-792d-4816-e90e-08db63312bb3
+X-MS-Exchange-CrossTenant-Id: cb71c4a1-79d3-4ed7-b9a3-18b3592d71c8
+X-MS-Exchange-CrossTenant-AuthSource:
+ HE1EUR01FT040.eop-EUR01.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DU2PR04MB8741
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.7297533
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.6455.015
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(930097);
+X-Microsoft-Antispam-Message-Info:
+	=?us-ascii?Q?8W1JWRTQS3tVPcgUXfMXKLjF+OH7Euc2KkUfx0XEA9bdhQKer02fGoGHWJu9?=
+ =?us-ascii?Q?ACe7c+Dbmu+gEzMsXwxJ1M03oOeoeoT8cfOvFz/xGhFpom2ibSjIHoAInw3o?=
+ =?us-ascii?Q?0Bo8fvBtn40byNW0cSKbSpcexd+NWsGW5oTpR3Y5BVMwyzuTG1y/4sPxuqvz?=
+ =?us-ascii?Q?ovY2I3kvlc3cBK4DKSBA5RTJfAqRrgQ/qeFcDI1BWpmbyx4toxrr+uB8xxxI?=
+ =?us-ascii?Q?D3T3xIF3pK/CPr+46dXy5WkxLkHno5tDqEYec0AoBir2Mce5owW/kLWtv5vZ?=
+ =?us-ascii?Q?Z0CtogRzcPW3e0xGGWekqdt6tdAlmEBRHXVHckbT+UP4iL/WsBgPm58SUbA7?=
+ =?us-ascii?Q?T2ahsyTPd05nvYqLZppkP79NaQDKezsOV41/DChxOcWrJ/gtlYo/fmme/3Hz?=
+ =?us-ascii?Q?v7P3jEgcEhOuKOZUoIo/2OzMfFTmK0GJI+CSCqJkO+9mKa/b4ro/5bgag9s/?=
+ =?us-ascii?Q?VjpiJVXakNOMPkwBZjOwtIc/4fB0ZRTzEHNYwxuM/Vzamc2cyVVZxC66Iq8Z?=
+ =?us-ascii?Q?/UiCB2bWGwadEMKJkVaaEsDmSg48gIoVTfydGXa9rPEwPK3QByxWvn4iSsOO?=
+ =?us-ascii?Q?jLZVOvdovb927fWzvjVSRwg2dIzf/wRLz20bqNe41HVKSXspMGVc7Eln2dSD?=
+ =?us-ascii?Q?HD5KUW+bK+OKAXxLh82bbwATHokUb7jwXYHVo5mXWW+NSIj8ZD7VStYWwxny?=
+ =?us-ascii?Q?xG12lDbIWYZs+ZpBSvlklC4pwxEV07ShAMAmg+mHiNmdt2WhLZnUW4VGKohD?=
+ =?us-ascii?Q?p5eYkQon8VPpE5AnPZbd3XZyOGtOTiXg/szzvT3INs0lS7YfuJWAhAM53/pV?=
+ =?us-ascii?Q?7AjDMJ+HT0Z7uP8S5aMnOW8QzXUUlFhRCl436epQFV3i28DS9ICfnkjjDHye?=
+ =?us-ascii?Q?SbTpKClNuhKfwQ2CnXqDXa/Q57+LixtWruinoiGaniOvwjphm94JS5zlefVv?=
+ =?us-ascii?Q?30vuy5+UD2LZ3df1wC+EiihhAYU6/3AiZXss8d+UCms35K8OFCbax8M5Mk/d?=
+ =?us-ascii?Q?YP1FDA9Yde8JcfNSpjPZVfvv4hb3gsAkwgmgpDOR9DpQwB83Uc2WkSkwceu9?=
+ =?us-ascii?Q?v1xAWkiivkaQMYqrtoWGEzD8g0ClfNqAzpSis9yurY+KeeewQbnxv8F9ggWS?=
+ =?us-ascii?Q?uxCuLI4a8OLzxPZH6osO8jafiAaNJR33jh1ao815h8r8FUaLnKStqR6D43+a?=
+ =?us-ascii?Q?GPb+NOHz5JptT/qA9xupYdPCOW0teFU/UXVZHw=3D=3D?=
